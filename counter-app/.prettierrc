@@ -1,0 +1,18 @@
+{
+    "printWidth": 80,
+    "tabWidth": 4,
+    "bracketSpacing": false,
+    "trailingComma": "es5",
+    "semi": false,
+    "singleQuote": true,
+
+    "overrides": [
+        {
+            "files": ["*.html"],
+            "options": {
+                "tabWidth": 2,
+                "bracketSameLine": false
+            }
+        }
+    ]
+}
